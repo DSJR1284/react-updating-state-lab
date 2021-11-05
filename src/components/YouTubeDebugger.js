@@ -8,10 +8,10 @@ class YouTubeDebugger extends Component{
             errors: [],
             user: null,
             settings: {
-              bitrate: 8,
-              video: {
+            bitrate: 8,
+            video: {
                 resolution: '1080p'
-              }            
+            }            
             }
         }
     }
